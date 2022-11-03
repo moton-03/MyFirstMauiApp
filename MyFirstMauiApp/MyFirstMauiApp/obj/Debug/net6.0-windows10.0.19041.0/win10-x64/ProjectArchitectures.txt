@@ -1,0 +1,1 @@
+C:\Users\kirar\source\repos\MyFirstMauiApp\MyFirstMauiApp\MyFirstMauiApp.csproj;x64
